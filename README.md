@@ -2,6 +2,7 @@
 This was a passion project i started for my favorite streamer.
 
 For privacy reasons I had to remove the entire source code and move this readme and showcase to a new public repo. 
+This repo is just used as a showcase of what I worked on and to track public issues.
 
 ## Beautiful Homepage with powerful searching
 You can search for streams, dates or even games and find exactly the VOD you wish to watch
