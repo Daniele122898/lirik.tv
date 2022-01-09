@@ -6,17 +6,21 @@ This repo is just used as a showcase of what I worked on and to track public iss
 
 ## Beautiful Homepage with powerful searching
 You can search for streams, dates or even games and find exactly the VOD you wish to watch
-![homepage](https://user-images.githubusercontent.com/20451770/122274318-b6383600-cee2-11eb-9fb2-05a8abf8bcc4.png)
+![homepage](https://user-images.githubusercontent.com/20451770/134219717-7bf47aa3-e8d1-47bb-a514-3043a72a1591.png)
+
 
 ### Search by game
-![game](https://user-images.githubusercontent.com/20451770/122274529-ebdd1f00-cee2-11eb-8aa4-1eeeaf4e0826.png)
+![search_game](https://user-images.githubusercontent.com/20451770/134219783-6b1fe5fb-a38a-4c4f-a5b6-7f78b035360a.png)
+
 
 
 ### Search by stream title
-![title](https://user-images.githubusercontent.com/20451770/122274493-e1bb2080-cee2-11eb-98ae-67bd938efce0.png)
+![search_title](https://user-images.githubusercontent.com/20451770/134219811-c7240abd-566f-4d99-b200-025245aa4fbd.png)
+
 
 
 
 ## Player with integrated Chat and Chapter select
 This includes badges, emotes and BTTV
-![player](https://user-images.githubusercontent.com/20451770/122274415-cf40e700-cee2-11eb-8bd6-62547cfc4a18.png)
+![player](https://user-images.githubusercontent.com/20451770/134219920-cf15bea0-f8cb-4398-8be1-b0928ded6da1.png)
+
